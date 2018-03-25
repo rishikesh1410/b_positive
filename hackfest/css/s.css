@@ -1,0 +1,81 @@
+
+/*   PROFILE */
+.mainprofile
+{
+  height : 650px;
+}
+.tab-menu li a
+{
+  color: black;
+}
+.tab-menu li a:hover
+{
+  color: #FF6000;
+  border-bottom: 3px solid #FF6000;
+}
+.tab-content
+{
+  background-color: #F5F5F5;
+  margin : 0px;
+  width: 100%;
+}
+.vertical .tab-pane
+{
+  text-align: left;
+  background-color: white;
+  padding: 20px 30px;
+}
+.tab-list
+{
+  width: 100%;
+}
+.tab-list li
+{
+  background-color: white;
+  color: black;
+  border-bottom : 1px solid lightgray;
+}
+.tab-list li a
+{
+  color: black;
+}
+.tab-list li a:hover
+{
+ 
+}
+
+/* REGISTER */
+
+.tab-ul .active
+{
+   background-color: white;
+}
+.tab-ul li
+{
+  background-color: white;
+}
+.btn-info
+{
+  border-radius: 30px;
+}
+
+/* REGISTER CSS */
+
+.form-content
+{
+  background-color: #fff;
+}
+.form-btn
+{
+  background-color: #FF6000;
+
+}
+.form-ul a
+{
+  color: black;
+}
+.nav-item
+{
+  display: block;
+  width: 100%;
+}

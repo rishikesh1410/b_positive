@@ -1,0 +1,26 @@
+#signUpPage{
+	display: block;
+}
+#logInPage{
+	display: none;
+}
+#page{
+  margin-top: 6.5%;
+}
+.btn{
+  color: black;
+	background-color: white;
+}
+.selected{
+	font-weight: 400;
+  font-size: 150%;
+}
+body{
+	font-size: 80%;
+}
+.col-4{
+	background-color: deepskyblue;
+}
+.name{
+	margin-left: 3.1%;
+}
